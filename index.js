@@ -38,4 +38,4 @@ function makeInt(n) {
   return parseInt(n)
 }
 
-makeInt('34')
+makeInt('9000')
