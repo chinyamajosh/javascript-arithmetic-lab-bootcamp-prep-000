@@ -34,4 +34,8 @@ function dec(n) {
 
 dec(34)
 
-function makeInt
+function makeInt(n) {
+  return parseInt(n)
+}
+
+makeInt('34')
