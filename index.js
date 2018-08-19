@@ -26,4 +26,4 @@ function inc(n) {
   return n++
 }
 
-inc(428)
+inc(676)
