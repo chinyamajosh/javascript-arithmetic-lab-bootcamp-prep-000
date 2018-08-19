@@ -27,3 +27,9 @@ function inc(n) {
 }
 
 inc(428)
+
+function dec(n) {
+  return n - 1
+}
+
+dec(34)
