@@ -33,3 +33,5 @@ function dec(n) {
 }
 
 dec(34)
+
+function makeInt
