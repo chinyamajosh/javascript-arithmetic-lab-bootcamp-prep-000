@@ -39,3 +39,8 @@ function makeInt(n) {
 }
 
 makeInt('9000')
+
+function preserveDecimal(n) {
+  return parseFloat("3.444555")
+  return parseFloat('nonsense!')
+}
