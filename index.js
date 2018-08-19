@@ -42,5 +42,6 @@ makeInt('9000')
 
 function preserveDecimal(n) {
   return parseFloat('2.222')
-  return parseFloat('4.555') 
+  return parseFloat('true')
+  ') 
 }
