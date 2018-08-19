@@ -15,3 +15,5 @@ function multiply(x, y) {
 }
 
 multiply(2, 3.4)
+
+function
