@@ -35,7 +35,7 @@ function dec(n) {
 dec(34)
 
 function makeInt(n) {
-  return parseInt(n)
+  return parseInt(n, 10)
 }
 
 makeInt('9000')
